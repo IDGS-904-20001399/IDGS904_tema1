@@ -1,0 +1,6 @@
+rojo,red
+azul,blue
+verde,green
+hola,hi
+azul,blue
+amarillo,yellow
